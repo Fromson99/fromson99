@@ -66,7 +66,7 @@ Utilizing mathematical models, deep learning, reinforcement learning, and data s
   🧮 **KHUDA (Kyung Hee University Data Analysis Club)**  
   Participated in the Financial Machine Learning Session.
 
-- **2024 ~**  
+- **2024 **  
   **Start up team : The TEAM**, a Kyung Hee University Campus Town Startup Team and later became the startup brand "Bapcoong."
   📊 **Role**: Data Analyst (~ 2024/03)
 
