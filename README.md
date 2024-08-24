@@ -1,11 +1,10 @@
-Certainly! Here's a more visually appealing and organized version of your GitHub profile README using markdown elements like headers, bold text, and bullet points to enhance readability and aesthetics:
 
 ---
 
 # 🌟 Hyeong Jin Son
 
-**Aspiring Quant Analyst | Portfolio Optimization Enthusiast**  
-Utilizing mathematical models, deep learning, reinforcement learning, and data science for market analysis.
+**Quant Analyst | Portfolio Optimization Enthusiast**  
+Utilizing mathematical models, deep learning, reinforcement learning, and data science for stock market analysis.
 
 *(📌 현재 25년도 보충역 구직중)*
 
@@ -58,7 +57,6 @@ Utilizing mathematical models, deep learning, reinforcement learning, and data s
 
 ### Junior | 2024
 
-*(Details to be added)*
 
 ---
 
@@ -89,12 +87,3 @@ Utilizing mathematical models, deep learning, reinforcement learning, and data s
 
 ---
 
-### 📫 Connect with Me
-
-- **Email:** [Your Email Here]  
-- **LinkedIn:** [Your LinkedIn Profile Here]  
-- **GitHub:** [Your GitHub Profile Here]
-
----
-
-This layout uses emojis, bold text, and bullet points to make the information more engaging and easier to read. Feel free to customize it further by adding links to your email, LinkedIn, and GitHub profile, or any other relevant details!
