@@ -5,14 +5,18 @@ I am a student aiming to become a quant. My goal is to optimize portfolios based
 mathematical biology), deep learning, reinforcement learning, and data science.
 
 (현재 25년도 보충역 구직 중)
+----
 # Project & Award
 
-Freshman | 2022
+## Freshman | 2022
 
-On-Campus Project
-Web and Python Programming
-한국시장 상장 주식의 수익률과 거래량의 관계분석
-한국시장 상장 주식의 재무제표와 거래량의 관계분석
+### On-Campus Project
+
+**Web and Python Programming**
+Analysis of the Relationship Between Returns and Trading Volume of Stocks Listed on the Korean Market
+
+Analysis of the Relationship Between Financial Statements and Trading Volume of Stocks Listed on the Korean Market
+
 
 Out - Campus Project
 FIELD CAMP
