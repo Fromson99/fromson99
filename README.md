@@ -67,8 +67,8 @@ Utilizing mathematical models, deep learning, reinforcement learning, and data s
   Participated in the Financial Machine Learning Session.
 
 - **2024 ~**  
-  **The TEAM**, a Kyung Hee University Campus Town Startup (~ 2024/03) & **Startup Bapcoong**  
-  📊 **Role**: Data Analyst
+  **Start up team : The TEAM**, a Kyung Hee University Campus Town Startup Team and later became the startup brand "Bapcoong."
+  📊 **Role**: Data Analyst (~ 2024/03)
 
 - **KAIST Financial Engineering Lab Intern**  
   🏢 **Duration**: June 2024 - August 2024
