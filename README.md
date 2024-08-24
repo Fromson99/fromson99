@@ -1,5 +1,8 @@
 # Hyeong jin Son
-I am a student aiming to become a quant. My goal is to optimize portfolios based on market analysis using various mathematical models (such as those from mathematical physics and mathematical biology), deep learning, reinforcement learning, and data science.
+
+I am a student aiming to become a quant. My goal is to optimize portfolios based on market analysis using various mathematical models (such as those from mathematical physics and
+
+mathematical biology), deep learning, reinforcement learning, and data science.
 
 (현재 25년도 보충역 구직 중)
 # Project & Award
