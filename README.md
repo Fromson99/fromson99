@@ -1,6 +1,7 @@
-## Hi there 👋
-
+# Hyeong jin Son
+-----
 Freshman | 2022
+
 On-Campus Project
 Web and Python Programming
 한국시장 상장 주식의 수익률과 거래량의 관계분석
