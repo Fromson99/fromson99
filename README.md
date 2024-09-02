@@ -57,7 +57,11 @@ Utilizing mathematical models, deep learning, reinforcement learning, and data s
 
 ### Junior | 2024
 
-
+---
+## Academic
+### 2023 | ACI oral presentation
+### 2024 | The Korean Statistical Society
+  - Poster session
 ---
 
 ## 🌐 Organizations & Experience
