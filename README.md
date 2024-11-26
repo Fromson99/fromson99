@@ -58,11 +58,12 @@ Additionally, I try to analyze the market from various perspectives by effective
     Utilized decision trees and market microstructure data to predict Bitcoin volatility ***(Awarded)***
 
 ### Junior | 2024
-- ** World Quant IQC
+- **World Quant IQC**
   world ranking 194 / 34,143
+  
   Korea ranking 12 / 664
-- ** NH Big Data
-  GNN & ETF
+- **NH Big Data**
+  GNN & ETF ***(Awarded)***
 - 
 
 ---
