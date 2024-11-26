@@ -3,8 +3,10 @@
 
 # 🌟 Hyeong Jin Son
 
-**Quant Analyst | Portfolio Optimization Enthusiast**  
-Utilizing mathematical models, deep learning, reinforcement learning, and data science for stock market analysis.
+**Quant analysis through alternative data |Portfolio Optimization Enthusiast**  
+I am very interested in analyzing the market and finding alpha using various unstructured data and alternative data such as natural language data, image data, network data, etc. 
+
+Additionally, I try to analyze the market from various perspectives by effectively analyzing the market through mathematical and statistical models used in various fields (physics, biology).
 
 *(📌 현재 25년도 보충역 구직중)*
 
@@ -56,12 +58,24 @@ Utilizing mathematical models, deep learning, reinforcement learning, and data s
     Utilized decision trees and market microstructure data to predict Bitcoin volatility ***(Awarded)***
 
 ### Junior | 2024
+- ** World Quant IQC
+  world ranking 194 / 34,143
+  Korea ranking 12 / 664
+- ** NH Big Data
+  GNN & ETF
+- 
 
 ---
 ## Academic
 ### 2023 | ACI oral presentation
-### 2024 | The Korean Statistical Society
-  - Poster session
+### 2024 | The Korean Statistical Society(summer)
+
+### 2024 | Korean Data Analysis Society(summer)
+
+### 2024 | Korean Institute of Industrial Engineers
+  
+### 2024 | ICAIF LLMs and Generative AI for Finance
+    Enhancing Portfolio Rebalancing Timing Using GPT: A Macroeconomic Indicator Approach
 ---
 
 ## 🌐 Organizations & Experience
@@ -86,7 +100,7 @@ Utilizing mathematical models, deep learning, reinforcement learning, and data s
 
 - **Mathematical Models:** Mathematical Physics, Mathematical Biology  
 - **Machine Learning:** Deep Learning, Reinforcement Learning  
-- **Data Science:** Financial Data Analysis, NLP  
+- **Data Science:** Financial Data Analysis, NLP, Computer vision  
 - **Programming Languages:** Python, R, SQL  
 
 ---
