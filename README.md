@@ -56,18 +56,32 @@ The advancement of computing power has led to the rapid development of deep lear
     Utilized decision trees and market microstructure data to predict Bitcoin volatility ***(Awarded)***
 
 ### Junior | 2024
-- **World Quant IQC**
-satge 1
-  world ranking 194 / 34,143
-  Korea ranking 12 / 664
-stage 2
-  World ranking 277
-  Korea ranking 15
-  
-- Kasit FE Lab Project: Scenario based optimization using llm
 
-- **NH Big Data**
-Theme asset allocation using GNN ***(Awarded)***
+**🌐 World Quant IQC**
+
+**World Quant IQC** 
+
+**🥇 Stage 1**
+- **🌍 World Ranking:** 194 / 34,143
+- **🇰🇷 Korea Ranking:** 12 / 664
+
+**🥈 Stage 2**
+- **🌍 World Ranking:** 277
+- **🇰🇷 Korea Ranking:** 15
+
+**🤖 Kasit FE Lab Project**
+
+- **🔍 Project Title:** Scenario-Based Optimization Using LLM (Large Language Models)
+
+
+
+**📊 NH Big Data**
+
+**NH Big Data** project involves sophisticated data analysis techniques to inform asset allocation strategies.
+
+- **🔍 Project Title:** Theme Asset Allocation Using GNN (Graph Neural Networks)
+- **🏆 Achievement:** **Awarded** 
+
 
 
 ---
@@ -116,4 +130,10 @@ stage 2
 - **Data:** : Structured data(Fundamental, TA) , Natural Language(Text) data, image data, Network data
 
 ---
+
+
+## 🔖 Summary
+
+- **Total Projects:** 13  
+- **Awards Received:** 4  
 
