@@ -96,14 +96,14 @@ stage 2
   🧮 **KHUDA (Kyung Hee University Data Analysis Club)**  
   Participated in the Financial Machine Learning Session.
 
-- **2024 **  
+- **2024**  
   **Start up team : The TEAM**, a Kyung Hee University Campus Town Startup Team and later became the startup brand "Bapcoong."
   📊 **Role**: Data Analyst (~ 2024/03)
 
-- **KAIST Financial Engineering Lab Intern**  
+  **KAIST Financial Engineering Lab Intern**  
   🏢 **Duration**: June 2024 - August 2024
 
-- **FBA-Quant**  
+  **FBA-Quant**  
   🏦 **Market Microstructure Session**: Participating and contributing to sessions on market microstructure analysis.
 ---
 
