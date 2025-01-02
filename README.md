@@ -3,10 +3,8 @@
 
 # 🌟 Hyeong Jin Son
 
-**Quant analysis through alternative data |Portfolio Optimization Enthusiast**  
-I am very interested in analyzing the market and finding alpha using various unstructured data and alternative data such as natural language data, image data, network data, etc. 
-
-Additionally, I try to analyze the market from various perspectives by effectively analyzing the market through mathematical and statistical models used in various fields (physics, biology).
+**Alpha analyst leveraging unstructured data**  
+The advancement of computing power has led to the rapid development of deep learning technology. This has made it possible to easily utilize unstructured data such as images or texts, which used to deal only with structured data such as stock prices, transaction volumes, and moving averages. In particular, natural language processing, which has recently been receiving attention, has become easy to directly apply to financial investment due to the development of the attention mechanism of the Transformer model. Such unstructured data has the advantage of being able to discover and reprocess ideas from a much more diverse perspective than existing structured data, but it also has the weakness of inconsistent data processing and analysis methodologies. In addition, although in the past when simply dealing with numbers, financial domain knowledge may not have been necessary, I think that today, when dealing with complex unstructured data including documents and images, an in-depth understanding of the financial field has become more important.
 
 *(📌 현재 25년도 보충역 구직중)*
 
@@ -59,24 +57,37 @@ Additionally, I try to analyze the market from various perspectives by effective
 
 ### Junior | 2024
 - **World Quant IQC**
+satge 1
   world ranking 194 / 34,143
-  
   Korea ranking 12 / 664
+stage 2
+  World ranking 277
+  Korea ranking 15
+  
+- Kasit FE Lab Project: Scenario based optimization using llm
+
 - **NH Big Data**
-  GNN & ETF ***(Awarded)***
-- 
+Theme asset allocation using GNN ***(Awarded)***
+
 
 ---
 ## Academic
-### 2023 | ACI oral presentation
+
+### 2023 | ACK oral presentation
+  Research on portfolio investment process optimization using reinforcement learning
+  
 ### 2024 | The Korean Statistical Society(summer)
-
+  Analysis of event period response between sectors in the US market using spillover index and DCC-GARCH model
+  
 ### 2024 | Korean Data Analysis Society(summer)
-
+  Predicting time lag until events affecting the US presidential election using a language model
+  
 ### 2024 | Korean Institute of Industrial Engineers
+  Asset allocation model using sentence-level sentiment analysis of analyst reports: Focusing on the combination of sentiment analysis, factor modeling, and Black-Litterman model
   
 ### 2024 | ICAIF LLMs and Generative AI for Finance
-    Enhancing Portfolio Rebalancing Timing Using GPT: A Macroeconomic Indicator Approach
+  Enhancing Portfolio Rebalancing Timing Using GPT: A Macroeconomic Indicator Approach
+
 ---
 
 ## 🌐 Organizations & Experience
@@ -94,7 +105,6 @@ Additionally, I try to analyze the market from various perspectives by effective
 
 - **FBA-Quant**  
   🏦 **Market Microstructure Session**: Participating and contributing to sessions on market microstructure analysis.
-
 ---
 
 ### 🛠️ Skills & Interests
@@ -102,7 +112,8 @@ Additionally, I try to analyze the market from various perspectives by effective
 - **Mathematical Models:** Mathematical Physics, Mathematical Biology  
 - **Machine Learning:** Deep Learning, Reinforcement Learning  
 - **Data Science:** Financial Data Analysis, NLP, Computer vision  
-- **Programming Languages:** Python, R, SQL  
+- **Programming Languages:** Python, R, SQL
+- **Data:** : Structured data(Fundamental, TA) , Natural Language(Text) data, image data, Network data
 
 ---
 
