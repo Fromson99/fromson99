@@ -40,26 +40,26 @@ The advancement of computing power has led to the rapid development of deep lear
 
 - **Financial Data Analysis**  
   - 📰 **Stock News Analysis Using NLP**  
-    Conducted analysis of stock news data to identify potential alpha investment opportunities.
+    Conducted analysis of stock news data to identify potential alpha investment opportunities.[Team leader]
 
 #### 🏆 Out-of-Campus Projects
 - **Annual Conference of KIPS 2023**  
   - 🧠 **Optimizing Portfolio Investment Processes**  
-    Presented research on using reinforcement learning to optimize portfolio investment processes (Oral Presentation).
+    Presented research on using reinforcement learning to optimize portfolio investment processes (Oral Presentation).[1st Author]
 
 - **AI Connection**  
   - 📝 **Korean Document Summarization Model**  
-    Developed by fine-tuning a large language model, achieving top 6% performance.
+    Developed by fine-tuning a large language model, achieving top 6% performance. [Team leader]
 
 - **ASCEND (Company)**  
   - 📈 **Predicting Bitcoin Volatility**  
-    Utilized decision trees and market microstructure data to predict Bitcoin volatility ***(Awarded)***
+    Utilized decision trees and market microstructure data to predict Bitcoin volatility ***(Awarded)*** [Team leader]
 
 ### Junior | 2024
 
 **🌐 World Quant IQC**
 
-**World Quant IQC** 
+**World Quant IQC** [Team leader]
 
 **🥇 Stage 1**
 - **🌍 World Ranking:** 194 / 34,143
@@ -77,7 +77,7 @@ The advancement of computing power has led to the rapid development of deep lear
 
 **📊 NH Big Data**
 
-**NH Big Data** project involves sophisticated data analysis techniques to inform asset allocation strategies.
+**NH Big Data** project involves sophisticated data analysis techniques to inform asset allocation strategies.[Team leader]
 
 - **🔍 Project Title:** Theme Asset Allocation Using GNN (Graph Neural Networks)
 - **🏆 Achievement:** **Awarded** 
@@ -87,19 +87,19 @@ The advancement of computing power has led to the rapid development of deep lear
 ---
 ## Academic
 
-### 2023 | ACK oral presentation
+### 2023 | ACK oral presentation [1st Author]
   Research on portfolio investment process optimization using reinforcement learning
   
-### 2024 | The Korean Statistical Society(summer)
+### 2024 | The Korean Statistical Society(summer) [1st Author]
   Analysis of event period response between sectors in the US market using spillover index and DCC-GARCH model
   
 ### 2024 | Korean Data Analysis Society(summer)
   Predicting time lag until events affecting the US presidential election using a language model
   
-### 2024 | Korean Institute of Industrial Engineers
+### 2024 | Korean Institute of Industrial Engineers[1st Author]
   Asset allocation model using sentence-level sentiment analysis of analyst reports: Focusing on the combination of sentiment analysis, factor modeling, and Black-Litterman model
   
-### 2024 | ICAIF LLMs and Generative AI for Finance
+### 2024 | ICAIF LLMs and Generative AI for Finance[1st Author]
   Enhancing Portfolio Rebalancing Timing Using GPT: A Macroeconomic Indicator Approach
 
 ---
