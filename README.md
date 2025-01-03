@@ -40,7 +40,9 @@ The advancement of computing power has led to the rapid development of deep lear
 
 - **Financial Data Analysis**  
   - 📰 **Stock News Analysis Using NLP** (Secured a 3 million KRW grant for a KHU university project.)
- 
+    
+    [Repositroy](https://github.com/Fromson99/sentiment-real-score)
+    
     Conducted analysis of stock news data to identify potential alpha investment opportunities.[Team leader]
 
 #### 🏆 Out-of-Campus Projects
@@ -76,6 +78,8 @@ The advancement of computing power has led to the rapid development of deep lear
 
 **📊 NH Big Data**
 
+[Repositroy](https://github.com/Fromson99/GNN_portfolio_allocation)
+
 **NH Big Data** project involves sophisticated data analysis techniques to inform asset allocation strategies.[Team leader]
 
 - **🔍 Project Title:** Theme Asset Allocation Using GNN (Graph Neural Networks)
@@ -97,10 +101,11 @@ The advancement of computing power has led to the rapid development of deep lear
   
 ### 2024 | Korean Data Analysis Society(summer)
   Predicting time lag until events affecting the US presidential election using a language model
-  
+
 ### 2024 | Korean Institute of Industrial Engineers[1st Author]
   Asset allocation model using sentence-level sentiment analysis of analyst reports: Focusing on the combination of sentiment analysis, factor modeling, and Black-Litterman model
   
+ [Repositroy](https://github.com/Fromson99/sentiment_black_litterman_model)
 ### 2024 | ICAIF LLMs and Generative AI for Finance[1st Author]
   Enhancing Portfolio Rebalancing Timing Using GPT: A Macroeconomic Indicator Approach
 
