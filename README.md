@@ -39,7 +39,8 @@ The advancement of computing power has led to the rapid development of deep lear
     Participated in a Kaggle Competition, achieving a rank of 7th out of 15.
 
 - **Financial Data Analysis**  
-  - 📰 **Stock News Analysis Using NLP**  
+  - 📰 **Stock News Analysis Using NLP** (Secured a 3 million KRW grant for a KHU university project.)
+ 
     Conducted analysis of stock news data to identify potential alpha investment opportunities.[Team leader]
 
 #### 🏆 Out-of-Campus Projects
@@ -73,8 +74,6 @@ The advancement of computing power has led to the rapid development of deep lear
 
 - **🔍 Project Title:** Scenario-Based Optimization Using LLM (Large Language Models)
 
-
-
 **📊 NH Big Data**
 
 **NH Big Data** project involves sophisticated data analysis techniques to inform asset allocation strategies.[Team leader]
@@ -82,6 +81,9 @@ The advancement of computing power has led to the rapid development of deep lear
 - **🔍 Project Title:** Theme Asset Allocation Using GNN (Graph Neural Networks)
 - **🏆 Achievement:** **Awarded** 
 
+**Chart data Feature selection using reinforcement learning and computer vision**
+
+  (Secured a 3 million KRW grant for a KHU university project.[Team leader]
 
 
 ---
