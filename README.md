@@ -80,7 +80,7 @@ While unstructured data may not be straightforward to use directly in investment
 #### 🧪 KAIST FE Lab Project
 - **Project Title:** Scenario-Based Optimization Using LLM (Large Language Models)
 
-#### 📊 NH Big Data (Team Leader)
+#### 📊 NH Big Data Competition(Team Leader)
 [GitHub Repository](https://github.com/Fromson99/GNN_portfolio_allocation)  
 - **Project Title:** Theme Asset Allocation Using GNN (Graph Neural Networks)  
 - **Achievement:** **_(Awarded)_**
@@ -95,9 +95,7 @@ While unstructured data may not be straightforward to use directly in investment
   - **Role:** Team Leader  
   - **Achievement:** Top 30 Teams in the Finals
 
-#### 💡 DB Financial
-
-#### 🔎 DB GAPS
+#### 🔎 DB GAPS(DB Financial)
 - **Role:** Team Leader  
 - **Achievement:** Advanced to Top 30% in the Finals  
 - **Project:** Enhancing Portfolio Rebalancing Timing Using GPT: A Macroeconomic Indicator Approach – Experimental Methods
