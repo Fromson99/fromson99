@@ -4,7 +4,13 @@
 # 🌟 Hyeong Jin Son
 
 **Alpha analyst leveraging unstructured data**  
-The advancement of computing power has led to the rapid development of deep learning technology. This has made it possible to easily utilize unstructured data such as images or texts, which used to deal only with structured data such as stock prices, transaction volumes, and moving averages. In particular, natural language processing, which has recently been receiving attention, has become easy to directly apply to financial investment due to the development of the attention mechanism of the Transformer model. Such unstructured data has the advantage of being able to discover and reprocess ideas from a much more diverse perspective than existing structured data, but it also has the weakness of inconsistent data processing and analysis methodologies. In addition, although in the past when simply dealing with numbers, financial domain knowledge may not have been necessary, I think that today, when dealing with complex unstructured data including documents and images, an in-depth understanding of the financial field has become more important.
+It is difficult to directly use unstructured data for investment, but it is a great tool for improving the investment process. Most of the projects I have done are about thinking about how to apply various data structures to the investment process and trying them out myself.
+
+The development of computing power has led to a rapid development of deep learning technology. This has made it possible to easily utilize unstructured data that is not fixed in form, such as images or text, even in the financial field where only structured data such as stock prices, transaction volume, moving averages, and financial information were handled in the past. In particular, natural language processing, which has recently been attracting attention, has become easy to apply directly to financial investment due to the development of the Transformer model's attention mechanism.
+
+This unstructured data has the advantage of being able to discover and reprocess ideas from a much more diverse perspective than existing structured data, but at the same time, there is the difficulty that data processing and analysis methodologies are not consistent. However, I think this difficulty actually provides investors with a differentiated advantage.
+
+It is not easy to directly use unstructured data for investment, but it is a great tool for improving the investment process. Most of the projects I've worked on are the result of thinking about how to integrate various data structures into the investment process and trying it out myself.
 
 *(📌 현재 25년도 보충역 구직중)*
 
