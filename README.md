@@ -4,8 +4,6 @@
 # 🌟 Hyeong Jin Son
 
 **Alpha analyst leveraging unstructured data**  
-It is difficult to directly use unstructured data for investment, but it is a great tool for improving the investment process. Most of the projects I have done are about thinking about how to apply various data structures to the investment process and trying them out myself.
-
 The development of computing power has led to a rapid development of deep learning technology. This has made it possible to easily utilize unstructured data that is not fixed in form, such as images or text, even in the financial field where only structured data such as stock prices, transaction volume, moving averages, and financial information were handled in the past. In particular, natural language processing, which has recently been attracting attention, has become easy to apply directly to financial investment due to the development of the Transformer model's attention mechanism.
 
 This unstructured data has the advantage of being able to discover and reprocess ideas from a much more diverse perspective than existing structured data, but at the same time, there is the difficulty that data processing and analysis methodologies are not consistent. However, I think this difficulty actually provides investors with a differentiated advantage.
